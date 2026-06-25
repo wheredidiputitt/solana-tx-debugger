@@ -1,0 +1,12 @@
+{
+  "name": "solana-watch-service",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "bun --hot index.ts"
+  },
+  "dependencies": {
+    "@solana/web3.js": "^1.98.4",
+    "socket.io": "^4.7.5"
+  }
+}
