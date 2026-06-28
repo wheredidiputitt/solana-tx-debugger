@@ -57,7 +57,7 @@ A developer tool that converts raw Solana transaction data into structured, plai
 ### Install & run
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/solana-tx-debugger.git
+git clone https://github.com/wheredidiputitt/solana-tx-debugger.git
 cd solana-tx-debugger
 bun install   # or npm install
 bun run dev   # or npm run dev
